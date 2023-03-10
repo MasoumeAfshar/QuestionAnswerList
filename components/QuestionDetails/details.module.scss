@@ -1,0 +1,15 @@
+@import '../../styles/variables.scss';
+@import '../../styles/customize.scss';
+
+.formTitle {
+  font-size:24px;
+  color:$black;
+  display: block;
+  padding-bottom: 18px;
+}
+.fromSubTitle{
+  font-size:12px;
+  color:$gray4;
+  display: block;
+  padding-bottom: 10px;
+}
