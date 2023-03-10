@@ -16,7 +16,7 @@ It has 2 pages: `Question List` and `Answer detail`. Using `Axios`,` RTK query` 
 https://github.com/typicode/json-server
 
 ```
-cd QAList/api/data
+cd api/data
 
 json-server --watch db.json --port 3000
 ```
